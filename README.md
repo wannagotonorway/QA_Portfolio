@@ -40,9 +40,8 @@ I'm an enthusiastic learner diving into the world of Quality Assurance. Passiona
 ---
 
 ## 📬 Let's Connect  
-- **Email:** [your.email@example.com]  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)  
+- **Email:** andriiprh@wannacommunity.com  
+- **GitHub:** [wannagotonorway]([https://github.com/yourprofile](https://github.com/wannagotonorway))  
 
 ---
 
