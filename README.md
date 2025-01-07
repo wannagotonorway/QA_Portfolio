@@ -41,7 +41,7 @@ I'm an enthusiastic learner diving into the world of Quality Assurance. Passiona
 
 ## 📬 Let's Connect  
 - **Email:** andriiprh@wannacommunity.com  
-- **GitHub:** [wannagotonorway]([https://github.com/yourprofile](https://github.com/wannagotonorway))  
+- **GitHub:** [wannagotonorway](https://github.com/wannagotonorway)
 
 ---
 
