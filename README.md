@@ -28,7 +28,7 @@ I'm an enthusiastic learner diving into the world of Quality Assurance. Passiona
   - Identified and documented UI inconsistencies on [Website Name].  
 
 - **Mock Testing Projects:**  
-  - Participated in functional and usability testing on platforms like Test IO and uTest.  
+  - Participated in functional and usability testing on platforms like [Test IO](https://tester.test.io/profile_pages/wannagotonorway) and [uTest](https://www.utest.com/ref2266616).  
 
 ---
 
@@ -42,7 +42,3 @@ I'm an enthusiastic learner diving into the world of Quality Assurance. Passiona
 ## 📬 Let's Connect  
 - **Email:** andriiprh@wannacommunity.com  
 - **GitHub:** [wannagotonorway](https://github.com/wannagotonorway)
-
----
-
-⭐ Feel free to explore my repositories and connect with me for collaboration or learning together!  
