@@ -25,7 +25,7 @@ I'm an enthusiastic learner diving into the world of Quality Assurance. Passiona
 ## 📂 Portfolio Highlights  
 - **Test Cases & Bug Reports:**  
   - Developed structured test cases for login and registration processes.  
-  - Identified and documented UI inconsistencies on [Website Name].  
+  - Identified and documented UI inconsistencies on wannacommunity.com.  
 
 - **Mock Testing Projects:**  
   - Participated in functional and usability testing on platforms like [Test IO](https://tester.test.io/profile_pages/wannagotonorway) and [uTest](https://www.utest.com/ref2266616).  
